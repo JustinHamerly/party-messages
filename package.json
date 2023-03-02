@@ -1,7 +1,7 @@
 {
-  "name": "party-messages",
+  "name": "party-messages-server",
   "version": "1.0.0",
-  "main": "hub.js",
+  "main": "index.js",
   "description": "proof of concept socket.io project",
   "scripts": {
     "test": "jest --watchAll"
